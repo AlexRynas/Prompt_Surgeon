@@ -77,6 +77,10 @@ Negatives: No shake, no ghosting, no motion blur, no distortion, no text/logos, 
 *   Use one subtle move max for short clips: micro‑dolly push‑in/out, slight arc, or gentle pan/tilt (avoid stacking).
 *   Shorthand verbs: Horizontal, Vertical, Zoom, Pan, Tilt, Roll.
 
+[https://imaginewithrashid.com/20-camera-movements-you-should-try-with-ai-video-generators/](https://imaginewithrashid.com/20-camera-movements-you-should-try-with-ai-video-generators/)
+
+[https://www.studiobinder.com/blog/different-types-of-camera-movements-in-film/](https://www.studiobinder.com/blog/different-types-of-camera-movements-in-film/)
+
 # 6) Troubleshooting Rules
 
 **Faces drifting / identity loss?** Move continuity locks to the first line; reduce camera motion; shorten the timeline; keep one focal action.
